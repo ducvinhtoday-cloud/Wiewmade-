@@ -7,4 +7,4 @@ All trash file:)
 
 ---
 type: trash
-extension:bat,exe
+extension:bat,exe,vbs
